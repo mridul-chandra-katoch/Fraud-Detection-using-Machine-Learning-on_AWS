@@ -1,3 +1,4 @@
+> 🚧 **Work in progress.** Based on the AWS Solutions Library "Fraud Detection using Machine Learning on AWS" guidance. My modifications are in progress.
 # Guidance for Fraud Detection using Machine Learning on AWS
 
 ## Table of Contents
